@@ -3,10 +3,7 @@ Site Specific Restriction Site Generator
 
 ********************************************************************
 
-WEB VERSION: 
 
-
-Restriction Site Generator  (https://restrictionsitegenerator.azurewebsites.net)
 
 *************************************************************************
 Restriction site Generator is a tool which allows the creation of restriction site along with or without mutation at specific site in primers. 
